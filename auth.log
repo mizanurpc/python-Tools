@@ -1,0 +1,5 @@
+Dec 12 10:00:01 server sshd[1234]: Failed password for invalid user admin from 192.168.1.100 port 50123 ssh2
+Dec 12 10:00:05 server sshd[1234]: Failed password for invalid user admin from 192.168.1.100 port 50124 ssh2
+Dec 12 10:00:10 server sshd[1234]: Failed password for root from 192.168.1.100 port 50125 ssh2
+Dec 12 10:00:15 server sshd[1234]: Failed password for root from 192.168.1.100 port 50126 ssh2
+Dec 12 10:00:20 server sshd[1234]: Failed password for root from 192.168.1.100 port 50127 ssh2
